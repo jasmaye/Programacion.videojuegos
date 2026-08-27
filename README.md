@@ -13,3 +13,4 @@ Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV.
 * **Rol:** UX/UI Designer
 * **Ubicación:** Cúcuta, Colombia
 * **Perfil:** Estudiante enfocada en el diseño de interfaz y experiencia de usuario para videojuegos, interesada en mecánicas, accesibilidad e impacto visual.
+  ![Foto Personal](./Gabriela/foto_personal.jpeg)
