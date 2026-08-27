@@ -8,7 +8,7 @@ Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV.
 * **Ubicación:** Colombia
 * **Perfil:** Estudiante de Ingeniería Multimedia interesada en el desarrollo de videojuegos y diseño digital.
 
-![Foto Personal](./jasmaye/Foto_personal.jpg)
+![Foto Personal](./Jasmaye/Foto_personal.jpg)
 ## Angela Becerra
 * **Rol:** UX/UI Designer
 * **Ubicación:** Cúcuta, Colombia
