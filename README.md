@@ -3,10 +3,10 @@ Etapa 1 - Reconocimiento del entorno y armado de equipos con SCV.
 ---
 # Integrantes del Proyecto
 ---
-## Jasmaye
+## Jasbleidy Mayerly Rodriguez Medina
 * **Rol en la industria:** Programadora / Diseñadora
-* **Ubicación:** Colombia
-* **Perfil:** Estudiante de Ingeniería Multimedia interesada en el desarrollo de videojuegos y diseño digital.
+* **Ubicación:** Zipaquira, Colombia
+* **Perfil:** Estudiante de Ingeniería Multimedia interesada en el desarrollo de videojuegos y el diseño digital.
 
 <img src="./Jasbleidy/Foto_personal.JPG" width="200" alt="Foto Personal">
 
